@@ -1,0 +1,12 @@
+{
+  "apps": [],
+  "user": {
+    "username": "",
+    "password": "",
+    "isAdmin": false
+  },
+  "system": {
+    "timezone": "",
+    "disableSleep": false
+  }
+}
